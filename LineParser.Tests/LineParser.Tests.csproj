@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RegexSplit\LineParser.csproj" />
+    <ProjectReference Include="..\LineParser\LineParser.csproj" />
   </ItemGroup>
 
 </Project>
